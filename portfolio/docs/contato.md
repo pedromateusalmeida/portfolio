@@ -18,7 +18,7 @@ Se você tem alguma dúvida, sugestão ou quer entrar em contato comigo, fique �
 
 ## E-mail
 
-Para questões profissionais, você pode me enviar um e-mail: pedromateusalmeida@gmail.com
+Para questões profissionais, você pode me enviar um e-mail: pedromateusmoraesdealmeida@gmail.com
 
 ## Formulário de Contato
 

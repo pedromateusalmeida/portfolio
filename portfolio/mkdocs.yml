@@ -1,5 +1,5 @@
 # Informações do Projeto
-site_name: Portfolio profissional Pedro Almeida
+site_name: Portfólio Pedro Almeida
 #site_url: 
 site_author: https://www.linkedin.com/in/pedro-mateus-almeida-br
 site_description: Portfólio Pedro Almeida
@@ -111,7 +111,7 @@ nav:
   - Sobre mim: sobre_mim.md
   - Experiências: experiencias.md
   - Cursos e Certificados: cursos_certificados.md
-  - Portfólio: portfolio.md
+  - Projetos: portfolio.md
   - Contato: contato.md
 
 

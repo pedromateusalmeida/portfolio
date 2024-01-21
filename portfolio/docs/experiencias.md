@@ -43,6 +43,7 @@ hide:
     - Desenvolvimento de um processo automatizado que repriorizasse o contato do consumidor para o melhor contato
         - Airflow
         - Bigquery
+        - Regras de negócio 
     - Banco de dados
         - Postgres
     - Documentações
@@ -68,7 +69,7 @@ hide:
         - MLflow
         - Plotly
     - Metodologia Ágil
-        - Scrumbam 
+        - Scrumban 
     
 
 
@@ -77,15 +78,15 @@ hide:
     ---
 
 <strong>Cargo:</strong> Cientista de Dados<br />
-<strong>Período:</strong> março/2022 - julho/2022<br />
+<strong>Período:</strong> fevereiro/2022 - julho/2022<br />
 
 ??? Info "Experiências:"
 
-    - Primeiro contato com Pyspark e Koalas
     - Ferramentas e estratégias de documentação
     - Tratamento de dados de bases públicas utilizando pyspark
     - Análise exploratória em bases públicas (Comex, CNPJ e outras)
-    - Primeiro contato com Databricks
+        - Pyspark e Koalas
+    - Contato com Databricks
     - Exércicio de boas práticas do ciclo de trabalho de ciência de dados
     - Nuvem de contato predominante: AWS
         - Codecommit
@@ -93,7 +94,7 @@ hide:
         - Testes com lambda 
     - Participação do projeto que desenvolveu um índice de performance
     - Metodologia Ágil
-        - Kanbam 
+        - Kanban 
 
 
 
@@ -120,7 +121,7 @@ hide:
         - Extração dados para Data wherehouse para tratamento dos dados
         - Tratamento dos dados e unificação com os dados já dispóniveis
         - Treinamento do modelo
-    - Primeiro contato em dar deploy de modelo em produção
+    - Implementar o modelo em produção (Realizar deploy)
     - Banco de dados 
         - Postgresql 
     - Desenvolvimento de dashboards no Looker
@@ -134,7 +135,7 @@ hide:
         - Looker
         - Google Secrets
     - Metodologia Ágil
-        - Scrumbam 
+        - Scrumban 
 
 
 
@@ -158,7 +159,7 @@ hide:
         - Documentação Científica 
     - Organizações de eventos acadêmicos
     - Produção de conteúdos educativos 
-    - Primeiro contato com base de dados públicas
+    - Contato com base de dados públicas
 
 
 -    __Universidade Federal de Viçosa__
@@ -173,7 +174,7 @@ hide:
     - Voluntário no projeto de pesquisa
         - Levantamento de dados no site do congresso
         - Transformação dos dados coletados em dados tabulares
-        - Primeiro contato com metodologia de pesquisa
+        - Metodologia de pesquisa
 
 
 

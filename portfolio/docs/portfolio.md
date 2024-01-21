@@ -68,7 +68,7 @@ hide:
 
     ---
     <div style="text-align: justify">
-    Esse trabalho foi desenvolvido na disciplina de Estatística Multivariada que foi cursada na pós de estatística computacional da UFMG. Trabalhamos os conceitos, aplicações de técnicas de PCA e EFA e interpretação dos resultados.
+    Esse trabalho foi desenvolvido na disciplina de Estatística Multivariada que foi cursada na pós de estatística computacional da UFMG. Trabalhei os conceitos, aplicações de técnicas de PCA e EFA e interpretação dos resultados.
 
     ---
     <center>[Clique aqui](https://github.com/pedromateusalmeida/caderno_estatistica/tree/main/PCA_EFA){ .md-button-small .md-button--primary }</center>

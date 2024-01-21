@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-![Image title](my_pic.png){ align=left } <div style="text-align: justify"> Olá, meu nome é Pedro, sou um entusiasta da tecnologia e adoro estudar a sociedade e seus padrões. Um dos meus objetivos é me tornar um especialista em dados. Tenho experiência tanto acadêmica quanto no mercado de trabalho, com vivências práticas em tecnologias e metodologias relacionadas a dados. Minha experiência técnica abrange proficiência em Python, Apache Spark, SQL, aprendizado de máquina, Big Data, análise de dados, metodologia ágil, entre outros.
+![Image title](my_pic.png){ align=left } <div style="text-align: justify"> Olá, meu nome é Pedro, sou um entusiasta da tecnologia e adoro estudar a sociedade e seus padrões. Um dos meus objetivos é me especializar cada vez mais em dados. Tenho experiência tanto acadêmica quanto no mercado de trabalho, com vivências práticas em tecnologias e metodologias relacionadas a dados. Minha experiência técnica abrange proficiência em Python, Apache Spark, SQL, estatística, aprendizado de máquina, Big Data, análise de dados, metodologia ágil, entre outros.
 
 Atualmente, estou aprimorando minhas habilidades e conhecimentos por meio da especialização em Estatística Computacional Aplicada, pela UFMG, complementando minha pós-graduação em Business Intelligence, pela PUC Minas, e minhas graduações em Sistema de Informação, pela UNA, e Ciências Sociais, pela UFMG.
 
@@ -44,19 +44,19 @@ Eu tenho como hobby fotografia, assistir documentários, gosto séries ou filmes
     :simple-python: Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::material-star::material-star:<br />
     :simple-mysql::simple-postgresql: SQL  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::material-star::octicons-star-16:<br />
     :octicons-graph-16: Análise de dados &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::material-star::octicons-star-16:<br />
-    :simple-apachespark: Apache Spark &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::fontawesome-regular-star-half-stroke::octicons-star-16:<br />
-    :material-function-variant: Estatística &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::fontawesome-regular-star-half-stroke::octicons-star-16:<br />
-    :fontawesome-solid-computer: Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::fontawesome-regular-star-half-stroke::octicons-star-16:<br />
-    :octicons-book-16: Sociologia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::octicons-star-16::octicons-star-16:<br />
-    :simple-powerbi: Power BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::octicons-star-16::octicons-star-16:<br />
-    :fontawesome-brands-jira: Metodologia Ágil  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::octicons-star-16::octicons-star-16:<br />
+    :fontawesome-solid-computer: Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::material-star::octicons-star-16:<br />
+    :material-function-variant: Estatística &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::fontawesome-regular-star-half-stroke::octicons-star-16:<br />
+    :simple-apachespark: Apache Spark &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::fontawesome-regular-star-half-stroke::octicons-star-16:<br />
+    :octicons-book-16: Sociologia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::octicons-star-16::octicons-star-16:<br />
+    :simple-powerbi: Power BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::octicons-star-16::octicons-star-16:<br />
+    :fontawesome-brands-jira: Metodologia Ágil &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::octicons-star-16::octicons-star-16:<br />
     :simple-git: Git &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::fontawesome-regular-star-half-stroke::octicons-star-16::octicons-star-16:<br />
     :material-brain: Deep Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::octicons-star-16::octicons-star-16::octicons-star-16:<br />
+    :simple-linux: Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::octicons-star-16::octicons-star-16::octicons-star-16::octicons-star-16:<br />
     :material-format-letter-case::flag_us: Inglês&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::material-star::octicons-star-16::octicons-star-16:<br />
     :material-format-letter-case::flag_es: Espanhol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:material-star::material-star::octicons-star-16::octicons-star-16::octicons-star-16:<br />
 
 </div>
-
 
 
 <div class="grid cards" markdown>
@@ -64,14 +64,14 @@ Eu tenho como hobby fotografia, assistir documentários, gosto séries ou filmes
 -   :books::material-lightbulb-on:{ .lg .middle } __Interesses e Hobbies__
 
     ---
-    :camera::material-camera:&nbsp;&nbsp;&nbsp;&nbsp;fotografia <br />
-    :movie_camera: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistir documentários  <br />
-    :material-movie-play:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Séries ou filmes de sci-fi  <br />
-    :material-music: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escutar música  <br />
-    :nerd: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprender novas coisas  <br />
-    :man_running::material-bike: &nbsp;&nbsp;&nbsp; Correr ou pedalar   <br />
-    :material-wallet-travel::material-plane-car: &nbsp;&nbsp;&nbsp; Viajar  <br />
-    :fontawesome-solid-people-group::fontawesome-solid-place-of-worship::mountain_railway: Conhecer pessoas e culturas <br />
-    :material-note-search:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pesquisa <br />
-    
+    :camera::material-camera:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fotografia <br />
+    :movie_camera: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistir documentários  <br />
+    :material-movie-play:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Séries ou filmes de sci-fi  <br />
+    :material-music: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escutar música  <br />
+    :nerd: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprender novas coisas  <br />
+    :man_running::material-bike: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Correr ou pedalar   <br />
+    :material-wallet-travel::material-plane-car: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Viajar  <br />
+    :fontawesome-solid-people-group::fontawesome-solid-place-of-worship::mountain_railway:&nbsp;&nbsp;&nbsp;&nbsp; Conhecer pessoas e culturas <br />
+    :material-note-search:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pesquisa <br />
+    :soccer::material-basketball::fontawesome-solid-football::material-tennis: Assistir esportes
 </div>
