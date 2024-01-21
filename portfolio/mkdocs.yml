@@ -1,0 +1,137 @@
+# Informações do Projeto
+site_name: Portfolio profissional Pedro Almeida
+#site_url: 
+site_author: https://www.linkedin.com/in/pedro-mateus-almeida-br
+site_description: Portfólio Pedro Almeida
+strict: false  # Adicione esta linha
+
+
+# Repositorio Git
+repo_name: Repositório no GitHub
+repo_url: https://github.com/pedromateusalmeida/
+edit_uri: "https://github.com/pedromateusalmeida/"
+
+# Configuração
+theme:
+  name: material
+  language: pt-BR
+  font:
+    text: Roboto
+  copyright: True 
+  favicon: favicon.ico
+  icon:
+    logo: material/information
+    repo: fontawesome/brands/github
+  features:
+    - toc.hide
+    - navigation.hide
+    - hide.navigation
+    - navigation.tabs
+    #- header.autohide
+    #- navigation.tabs.sticky
+    #- navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - toc.integrate
+    - navigation.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - navigation.tracking
+    - content.code.annotate
+    - content.code.copy 
+    - stylesheets/extra.css
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/toggle-switch
+        name:  Modo claro
+
+plugins:
+
+  - search:
+      lang: en
+  
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tilde
+  - md_in_html
+  - def_list
+  - abbr
+  - footnotes
+  - meta
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.inlinehilite  
+  - pymdownx.snippets 
+  - pymdownx.superfences  
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight: 
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - codehilite:
+      guess_lang: false
+
+extra_css:
+  - css/custom.css
+
+extra_javascript:
+  - 'lightbox.js' 
+  - 'javascripts/extra.js'
+
+# Árvore de páginas
+nav:
+  - Sobre mim: sobre_mim.md
+  - Experiências: experiencias.md
+  - Cursos e Certificados: cursos_certificados.md
+  - Portfólio: portfolio.md
+  - Contato: contato.md
+
+
+# Configuração do Favicon e Cookie Consent
+extra:
+    favicon: 'favicon.ico'
+    version:
+      provider: mike
+    consent:
+      title: Consentimento de cookies
+      description: >- 
+        Usamos cookies para reconhecer suas visitas repetidas e preferências, 
+        bem como para medir a eficácia de nossa documentação e se os usuários 
+        encontram o que estão procurando. Com o seu consentimento, você 
+        nos ajuda a melhorar nossa documentação.
+    social:
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/in/pedro-mateus-almeida-br
+      - icon: fontawesome/brands/github
+        link: https://www.github.com/pedromateusalmeida
+      - icon: fontawesome/brands/instagram
+        link: https://www.instagram.com/pedro_mateus_almeida/
+    generator: false
