@@ -87,7 +87,7 @@ hide:
     - Análise exploratória em bases públicas (Comex, CNPJ e outras)
         - Pyspark e Koalas
     - Contato com Databricks
-    - Exércicio de boas práticas do ciclo de trabalho de ciência de dados
+    - Execução de boas práticas do ciclo de trabalho de ciência de dados
     - Nuvem de contato predominante: AWS
         - Codecommit
         - S3
@@ -108,7 +108,7 @@ hide:
 ??? Info "Experiências"
 
     - Documentações:
-        - Dicionaário de dados
+        - Dicionário de dados
         - Mapeamento do ciclo de dados
     - Análise de dados das ferramentas
         - Disparo e-mail
@@ -121,12 +121,12 @@ hide:
         - Extração dados para Data wherehouse para tratamento dos dados
         - Tratamento dos dados e unificação com os dados já dispóniveis
         - Treinamento do modelo
-    - Implementar o modelo em produção (Realizar deploy)
+    - Implementação de modelo em produção (Realizar deploy)
     - Banco de dados 
         - Postgresql 
     - Desenvolvimento de dashboards no Looker
     - Git (Gitlab)
-    - Suporte para área de business acessar determinado dado ou informação
+    - Suporte para área de business acessar dados e informações
     - Nuvem Google Clound Plataform
         - Big query
         - Vertex AI

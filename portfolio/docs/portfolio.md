@@ -49,7 +49,7 @@ hide:
 
     ---
     <div style="text-align: justify">
-    Esse projeto é um compilado de informações e anotações dos meus estudos que fiz sobre metodologias ágeis. A ideia é que essa seja uma documentação viva, então a medida que eu for estudando mais informações sobre a filosofia ágil e suas aplicações em forma de métodos de trabalho pretendo incrementar nessa documentação.<br /><br /><br />
+    Esse projeto é um compilado de informações e anotações dos meus estudos sobre metodologias ágeis. A ideia é que essa seja uma documentação viva, então, na medida em que eu for estudando mais informações sobre a filosofia ágil e suas aplicações em forma de métodos de trabalho, pretendo incrementar nessa documentação.<br /><br /><br />
 
     ---
 
