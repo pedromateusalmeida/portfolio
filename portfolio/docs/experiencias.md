@@ -3,9 +3,10 @@ hide:
   - navigation
   - toc
 ---
--   __Acerto__
 
-    ---
+
+
+-   __Acerto__<br />
 <strong>Cargo:</strong> Cientista de Dados<br />
 <strong>Período:</strong> agosto/2022 - novembro/2023<br />
 
@@ -39,18 +40,18 @@ hide:
             - Pyspark 
             - Feature Store
             - Workflow
-    - POC de extração de dados de forma distribúida da API da ferramenta de disparo de e-mail
+    - POC de extração de dados de forma distribuída da API da ferramenta de disparo de e-mail
     - Desenvolvimento de um processo automatizado que repriorizasse o contato do consumidor para o melhor contato
         - Airflow
         - Bigquery
         - Regras de negócio 
     - Banco de dados
-        - Postgres
+        - Postgresql
     - Documentações
         - Análises
         - Modelagens
         - Processos
-    - Extração, tratamento e limpeza de bases públicas
+    - Extração, tratamento e limpeza de bases públicas para enriquecimento de dados dos contatos
     - Capacitação básica do Apache Spark
     - Nuvens: Azure e Google Cloud Plataform
         - GCP:
@@ -71,12 +72,9 @@ hide:
     - Metodologia Ágil
         - Scrumban 
     
+--- 
 
-
--   __A3 Data__
-
-    ---
-
+-   __A3 Data__<br />
 <strong>Cargo:</strong> Cientista de Dados<br />
 <strong>Período:</strong> fevereiro/2022 - julho/2022<br />
 
@@ -96,12 +94,10 @@ hide:
     - Metodologia Ágil
         - Kanban 
 
+--- 
 
 
--   __Plusdin__
-
-    ---
-
+-   __Plusdin__<br />
 <strong>Cargo:</strong> Cientista de Dados<br />
 <strong>Período:</strong> agosto/2020 - fevereiro/2022<br />
 
@@ -137,12 +133,9 @@ hide:
     - Metodologia Ágil
         - Scrumban 
 
+--- 
 
-
--   __Universidade Federal de Minas Gerais__
-
-    ---
-
+-   __Universidade Federal de Minas Gerais__<br />
 <strong>Cargo:</strong> Assistente Pesquisa<br />
 <strong>Período:</strong> fevereiro/2013 - julho/2016<br />
 
@@ -153,7 +146,7 @@ hide:
         - Coleta de dados
         - Digitalização em dados tabulares
         - Tratamento de dados
-        - Primeiro com estatística na prática
+        - Estatística na prática
         - Análises dados 
         - Apresentação dos resultados em congressos e foruns
         - Documentação Científica 
@@ -161,10 +154,9 @@ hide:
     - Produção de conteúdos educativos 
     - Contato com base de dados públicas
 
+--- 
 
--    __Universidade Federal de Viçosa__
-
-    ---
+-    __Universidade Federal de Viçosa__<br />
 <strong>Cargo:</strong> Bolsista de extensão e voluntário<br />
 <strong>Período:</strong> fevereiro/2011 - agosto/2012<br />
     
@@ -175,6 +167,8 @@ hide:
         - Levantamento de dados no site do congresso
         - Transformação dos dados coletados em dados tabulares
         - Metodologia de pesquisa
+
+--- 
 
 
 
