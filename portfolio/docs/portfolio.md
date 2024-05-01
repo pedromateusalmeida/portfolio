@@ -10,7 +10,7 @@ hide:
 
     ---
     <div style="text-align: justify">
-    Este case utiliza dados da ANAC e do INMET para desenvolver um modelo preditivo de atrasos de voos. Abrange todas as fases de um projeto de ciência de dados, incluindo extração, limpeza, análise exploratória, modelagem, treinamento, avaliação de desempenho e documentação. O objetivo final é preparar o projeto para a implementação do modelo em produção."<br />
+    Este case utiliza dados da ANAC e do INMET para desenvolver um modelo preditivo de atrasos de voos. Abrange todas as fases de um projeto de ciência de dados, incluindo extração, limpeza, análise exploratória, modelagem, treinamento, avaliação de desempenho e documentação. O objetivo final é preparar o projeto para a implementação do modelo em produção.<br />
 
     
 
@@ -27,6 +27,16 @@ hide:
     ---
     <center>[Clique aqui](https://pedromateusalmeida.github.io/receita-federal-api/){ .md-button-small .md-button--primary }</center>
 
+-   <center>![bitcoin_case](https://github.com/pedromateusalmeida/time-series-analysis-bitcoin/blob/main/btc_gif.gif?raw=true)</center>
+
+    ---
+    <div style="text-align: justify">
+    Este estudo utiliza dados diários do Bitcoin obtidos do Yahoo Finance, com o objetivo de prever o preço de fechamento do Bitcoin usando modelos de séries temporais. As etapas incluem extração de dados, transformação, limpeza, análise exploratória, testes de estacionariedade, autocorrelação, memória da série e outros . Os modelos aplicados foram regressão linear e multilinear, alisamento exponencial, ARIMA, SARIMA, SARIMAX, Auto ARIMA, XGBoost Regressor, GARCH, Prophet e LSTM <br />
+
+
+    ---
+    <center>[Clique aqui](https://github.com/pedromateusalmeida/time-series-analysis-bitcoin/blob/main/Scripts%20e%20encodings/Trabalho_pos_script_final.ipynb){ .md-button-small .md-button--primary }</center>
+
 -   <center>![Image title](mapa_png.png) </center>
 
     ---
@@ -34,7 +44,7 @@ hide:
     O objetivo desse tratamento é centralizar todas as regras da telefonia brasileira nos últimos 30 anos. Ao final será possível obter informações como a classificação entre telefone fixo e móvel, qual estado, qual macro região, se é um telefone celular valido e qual é a operadora do telefone móvel.<br /><br />
 
     ---
-    <center>[Clique aqui](https://pedromateusalmeida.github.io/aviacao_brasileira/case/){ .md-button-small .md-button--primary }</center>
+    <center>[Clique aqui](https://pedromateusalmeida.github.io/receita-federal-api/tratamento_telefone/){ .md-button-small .md-button--primary }</center>
 
 -   <center>![Image title](spark_dev_png.png) </center><br /><br />
 
