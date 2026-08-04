@@ -4,11 +4,95 @@ hide:
   - toc
 ---
 
+-   __Inter__<br />
+<strong>Cargo:</strong> Cientista de Dados<br />
+<strong>Período:</strong> Setembro/2024 - atual<br />
 
+??? Info "Experiências:"
+
+    - Model Risk Management (MRM) / Governança de IA
+        - Atuação na estruturação de processos de governança de modelos (MRM/GRM)
+        - Definição de diretrizes para desenvolvimento, validação e monitoramento de modelos
+        - Avaliação de risco de modelos ao longo do ciclo de vida
+        - Alinhamento com boas práticas regulatórias e frameworks internacionais
+    - Validação de modelos
+        - Avaliação técnica de modelos de machine learning e estatísticos
+        - Aplicação de testes de:
+            - Robustez
+            - Estabilidade temporal
+            - Sensibilidade
+            - Estresse
+            - Multicolinearidade
+            - Calibração
+            - Interpretabilidade e explicabilidade
+            - Dentre outros
+        - Análise crítica da metodologia e aderência ao problema de negócio
+    - Modelagem e análise de dados
+        - Desenvolvimento e avaliação de modelos preditivos
+        - Aplicação de técnicas de machine learning e estatística
+        - Análise exploratória e tratamento de dados
+    - Governança, risco e conformidade
+        - Atuação em temas relacionados à LGPD e governança de dados
+        - Avaliação de riscos associados ao uso de inteligência artificial
+        - Interface com áreas técnicas e de negócio para mitigação de riscos
+    - MLOps e ciclo de vida de modelos
+        - Acompanhamento do ciclo de vida de modelos (desenvolvimento, deploy, monitoramento)
+    - Cloud e engenharia de dados
+        - Utilização de AWS e Apache Spark para processamento de dados
+        - Manipulação e análise de dados com Python e SQL
+    - Liderança técnica
+        - Referência técnica em modelagem
+        - Discussão de estratégias de modelagem e abordagens estatísticas
+        - Apoio técnico na resolução de problemas
+        - Liderança técnica na estruturação do framework institucional de MRM
+    - Produção de conhecimento e disseminação
+        - Planejamento e condução de treinamentos internos sobre modelagem
+        - Capacitação em Inteligência Artificial para áreas técnicas e de negócio
+        - Compartilhamento de conhecimento por meio de meetups e materiais técnicos
+        - Estudo contínuo de frameworks e normas como:
+            - ISO/IEC 42001
+            - NIST AI Risk Management Framework
+            - SR 11-7
+            - ISO/IEC 23894
+            - ISO/IEC 22989
+            - ISO/IEC 38507
+
+---
+
+-   __Compass__<br />
+<strong>Cargo:</strong> Cientista de Dados<br />
+<strong>Período:</strong> Janeiro/2024 - Setembro/2028<br />
+
+??? Info "Experiências:"
+
+    - Engenharia de dados
+        - Desenvolvimento e manutenção de pipelines de dados
+        - Orquestração de workflows utilizando Airflow
+        - Processamento de dados distribuídos com Pyspark
+        - Integração e ingestão de dados de diferentes fontes
+    - MLOps
+        - Construção e configuração de ambiente de MLOps
+        - Implementação e gestão do MLflow para rastreamento de experimentos
+        - Deploy de modelos e controle de versionamento
+        - Estruturação de pipelines de machine learning
+        - Utilização de Kubernete e Docker
+        - Suporte ao ciclo de vida de modelos de concessão de crédito
+    - Arquitetura de dados
+        - Desenho de arquiteturas de dados escaláveis
+        - Definição de fluxos de ingestão, processamento e consumo de dados
+        - Apoio na definição de boas práticas de engenharia e governança
+    - Cloud (Google Cloud Platform)
+        - Utilização de serviços para processamento e armazenamento de dados
+        - Deploy de aplicações e pipelines em ambiente cloud
+        - Configuração de infraestrutura para workloads de dados e ML
+    - Metodologia Ágil
+        - Atuação em squads utilizando metodologias ágeis
+
+---
 
 -   __Acerto__<br />
 <strong>Cargo:</strong> Cientista de Dados<br />
-<strong>Período:</strong> agosto/2022 - novembro/2023<br />
+<strong>Período:</strong> Agosto/2022 - Dezembro/2023<br />
 
 ??? Info "Experiências:"
 
@@ -21,18 +105,19 @@ hide:
         - Dívidas
         - E-mail 
         - Métricas do negócio
-    - Teste AB
-        - Elaboração do teste AB
-        - Análise do resultado
-        - Suporte na tomada de decisão
+    - Testes A/B
+        - Planejamento dos experimentos
+        - Análise estatística dos resultados
+        - Suporte à tomada de decisão
     - Suporte para o time de business
         - Calcular métricas
         - Desenvolver dashboards no Power BI
         - Facilitar acesso a informação
         - Automatizar processos do calculo de métricas 
-    - Modelagem de dados para:
+    - Modelagem para:
         - os melhores clientes para receber o SMS
         - os melhores clientes para receber e-mail
+        - Otimização das estratégias de recuperação de crédito
     - Desenho e implementação da arquitetura de MLops 
         - Ferramentas
             - Databricks
@@ -76,7 +161,7 @@ hide:
 
 -   __A3 Data__<br />
 <strong>Cargo:</strong> Cientista de Dados<br />
-<strong>Período:</strong> fevereiro/2022 - julho/2022<br />
+<strong>Período:</strong> Fevereiro/2022 - Julho/2022<br />
 
 ??? Info "Experiências:"
 
@@ -99,7 +184,7 @@ hide:
 
 -   __Plusdin__<br />
 <strong>Cargo:</strong> Cientista de Dados<br />
-<strong>Período:</strong> agosto/2020 - fevereiro/2022<br />
+<strong>Período:</strong> Agosto/2020 - Fevereiro/2022<br />
 
 ??? Info "Experiências"
 
