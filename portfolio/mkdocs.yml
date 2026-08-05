@@ -1,8 +1,8 @@
 # Informações do Projeto
 site_name: Portfólio Pedro Almeida
-#site_url: 
-site_author: https://www.linkedin.com/in/pedro-mateus-almeida-br
-site_description: Portfólio Pedro Almeida
+site_url: https://pedromateusalmeida.github.io/
+site_author: Pedro Mateus Almeida
+site_description: "Portfólio profissional de Pedro Almeida — Cientista de Dados Sênior especialista em Model Risk Management (MRM), Governança de Inteligência Artificial, MLOps, Engenharia de Dados e Estatística Computacional (UFMG)."
 strict: false  # Adicione esta linha
 
 
@@ -42,7 +42,6 @@ theme:
     - navigation.tracking
     - content.code.annotate
     - content.code.copy 
-    - stylesheets/extra.css
     - navigation.instant
     - navigation.instant.progress
     - navigation.footer
