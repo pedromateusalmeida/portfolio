@@ -16,4 +16,25 @@
   <meta name="twitter:title" content="Portfólio Pedro Almeida — Cientista de Dados" />
   <meta name="twitter:description" content="Portfólio profissional de Pedro Almeida — Cientista de Dados com experiência em Modelagem, MRM, Governança de IA e MLOps." />
   <meta name="twitter:image" content="https://pedromateusalmeida.github.io/portfolio/my_pic.png" />
+
+  <!-- Widget de Tradução Automática (Google Translate) -->
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'pt',
+        includedLanguages: 'en,es,pt',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+        autoDisplay: false
+      }, 'google_translate_element');
+    }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+{% endblock %}
+
+{% block content %}
+  <div id="translate-bar">
+    <span class="translate-label">🌐 Idioma / Language:</span>
+    <div id="google_translate_element"></div>
+  </div>
+  {{ super() }}
 {% endblock %}

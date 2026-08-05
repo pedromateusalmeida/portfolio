@@ -117,4 +117,48 @@
     background-color: rgba(63, 81, 181, 0.22);
     transform: translateY(-1px);
 }
+
+/* Widget de Tradução Automática (Google Translate) */
+#translate-bar {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-bottom: 1.2rem;
+    padding: 6px 14px;
+    background-color: var(--md-code-bg-color, rgba(255, 255, 255, 0.04));
+    border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.12));
+    border-radius: 20px;
+    font-size: 0.85rem;
+    width: fit-content;
+    margin-left: auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.translate-label {
+    font-weight: 600;
+    color: var(--md-typeset-color);
+}
+
+/* Esconder barra de topo padrão do Google Translate */
+body {
+    top: 0 !important;
+}
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+.goog-te-gadget-simple {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    font-size: 0.85rem !important;
+    cursor: pointer;
+}
+
+.goog-te-gadget-simple .goog-te-menu-value span {
+    color: var(--md-typeset-color) !important;
+}
+
 
