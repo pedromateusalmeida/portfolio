@@ -536,6 +536,54 @@
               
               <article class="md-content__inner md-typeset">
                 
+  <!-- Botão Discreto de Idioma PT | EN -->
+  <div class="lang-switcher">
+    <button onclick="changeSiteLanguage('pt')" class="lang-btn" id="lang-pt-btn">🇧🇷 PT</button>
+    <span class="lang-divider">|</span>
+    <button onclick="changeSiteLanguage('en')" class="lang-btn" id="lang-en-btn">🇺🇸 EN</button>
+  </div>
+
+  <!-- Elemento Oculto do Google Translate -->
+  <div id="google_translate_element" style="display:none;"></div>
+
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'pt',
+        includedLanguages: 'en,pt',
+        autoDisplay: false
+      }, 'google_translate_element');
+    }
+
+    function changeSiteLanguage(lang) {
+      var domain = location.hostname;
+      if (lang === 'pt') {
+        document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+        document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; domain=" + domain + "; path=/;";
+        document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; domain=." + domain + "; path=/;";
+      } else {
+        document.cookie = "googtrans=/pt/" + lang + "; path=/;";
+        document.cookie = "googtrans=/pt/" + lang + "; domain=" + domain + "; path=/;";
+        document.cookie = "googtrans=/pt/" + lang + "; domain=." + domain + "; path=/;";
+      }
+      location.reload();
+    }
+
+    // Destacar o botão ativo
+    document.addEventListener("DOMContentLoaded", function() {
+      var cookies = document.cookie;
+      var ptBtn = document.getElementById("lang-pt-btn");
+      var enBtn = document.getElementById("lang-en-btn");
+      if (cookies.indexOf("googtrans=/pt/en") !== -1) {
+        if (enBtn) enBtn.classList.add("active");
+      } else {
+        if (ptBtn) ptBtn.classList.add("active");
+      }
+    });
+  </script>
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+  
                   
   
 
@@ -567,6 +615,7 @@
 
 
                 
+
               </article>
             </div>
           
