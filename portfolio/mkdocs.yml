@@ -2,7 +2,7 @@
 site_name: Portfólio Pedro Almeida
 site_url: https://pedromateusalmeida.github.io/portfolio/
 site_author: Pedro Mateus Almeida
-site_description: "Portfólio profissional de Pedro Almeida — Cientista de Dados Sênior especialista em Model Risk Management (MRM), Governança de Inteligência Artificial, MLOps, Engenharia de Dados e Estatística Computacional (UFMG)."
+site_description: "Portfólio profissional de Pedro Almeida — Cientista de Dados com experiencia em Modelagem, Model Risk Management (MRM), Governança de Inteligência Artificial, MLOps, Engenharia de Dados e Estatística Computacional (UFMG)."
 strict: false  # Adicione esta linha
 
 
@@ -14,6 +14,7 @@ edit_uri: "https://github.com/pedromateusalmeida/"
 # Configuração
 theme:
   name: material
+  custom_dir: overrides
   language: pt-BR
   font:
     text: Roboto
