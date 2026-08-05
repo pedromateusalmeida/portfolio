@@ -63,7 +63,7 @@ theme:
 plugins:
 
   - search:
-      lang: en
+      lang: pt
   
 
 markdown_extensions:
@@ -102,13 +102,9 @@ markdown_extensions:
 extra_css:
   - css/custom.css
 
-extra_javascript:
-  - 'lightbox.js' 
-  - 'javascripts/extra.js'
-
 # Árvore de páginas
 nav:
-  - Sobre mim: sobre_mim.md
+  - Sobre mim: index.md
   - Experiências: experiencias.md
   - Cursos e Certificados: cursos_certificados.md
   - Projetos: portfolio.md

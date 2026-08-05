@@ -2,7 +2,7 @@
 -   __Databricks Certified Associate Developer for Apache Spark 3.0__<br />
     Databricks<br />
     https://credentials.databricks.com/d1329d21-2d85-40b9-933f-a8aeec2eb387<br />
-    Códifo da credencial: 72876551<br />
+    Código da credencial: 72876551<br />
 
 ---
 
@@ -69,7 +69,7 @@
 
 -   __Curso de estatística aplicada a Ciências Sociais__<br />
     UFMG<br />
-    Carga Hóraria: 30 Horas<br />  
+    Carga Horária: 30 Horas<br />  
 --- 
 
 -   __DESVENDANDO A INDÚSTRIA 4.0__<br />
@@ -79,7 +79,7 @@
 
 -   __Análise Espacial Aplicada à Pesquisa Social__<br />
     UnB -  Brasilia/DF<br />
-    Carga Hóraria: 10 Horas<br /> 
+    Carga Horária: 10 Horas<br /> 
 
 --- 
 
@@ -96,7 +96,7 @@ CANCADO, H. O. R. ; ALMEIDA, P. M. M. . O que dá mais voto? Uma análise descri
 ALMEIDA, P. M. M.. Reforma Política na Perspectiva dos Parlamentares Brasileiros. 2015. (Apresentação de Trabalho/Congresso).<br />
 
 
-ALMEIDA, P. M. M.. Analisando o impacto das resoluções das Conferências Estaduais de Política para Mulheres (2009, 2011) na produção legislativa da Assembléia Legislativa de Minas Gerais. 2014. (Apresentação de Trabalho/Congresso).<br />
+ALMEIDA, P. M. M.. Analisando o impacto das resoluções das Conferências Estaduais de Política para Mulheres (2009, 2011) na produção legislativa da Assembleia Legislativa de Minas Gerais. 2014. (Apresentação de Trabalho/Congresso).<br />
 
 
 ALMEIDA, P. M. M.; DIOGO, F. F. ; FARIA, C. F. . PERFIL DE OPINIÃO DAS/DOS PARTICIPANTES DAS CONFERÊNCIAS DE SAÚDE E ASSISTÊNCIA SOCIAL. 2013. (Apresentação de Trabalho/Outra).<br />

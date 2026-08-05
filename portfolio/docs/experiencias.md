@@ -61,7 +61,7 @@ hide:
 
 -   __Compass__<br />
 <strong>Cargo:</strong> Cientista de Dados<br />
-<strong>Período:</strong> Janeiro/2024 - Setembro/2028<br />
+<strong>Período:</strong> Janeiro/2024 - Setembro/2024<br />
 
 ??? Info "Experiências:"
 
@@ -75,7 +75,7 @@ hide:
         - Implementação e gestão do MLflow para rastreamento de experimentos
         - Deploy de modelos e controle de versionamento
         - Estruturação de pipelines de machine learning
-        - Utilização de Kubernete e Docker
+        - Utilização de Kubernetes e Docker
         - Suporte ao ciclo de vida de modelos de concessão de crédito
     - Arquitetura de dados
         - Desenho de arquiteturas de dados escaláveis
@@ -138,7 +138,7 @@ hide:
         - Processos
     - Extração, tratamento e limpeza de bases públicas para enriquecimento de dados dos contatos
     - Capacitação básica do Apache Spark
-    - Nuvens: Azure e Google Cloud Plataform
+    - Nuvens: Azure e Google Cloud Platform
         - GCP:
             - Big query
             - Dataproc
@@ -208,7 +208,7 @@ hide:
     - Desenvolvimento de dashboards no Looker
     - Git (Gitlab)
     - Suporte para área de business acessar dados e informações
-    - Nuvem Google Clound Plataform
+    - Nuvem Google Cloud Platform
         - Big query
         - Vertex AI
         - Cloud Storage

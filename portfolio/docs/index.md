@@ -9,9 +9,9 @@ hide:
 
 Olá, meu nome é Pedro.
 
-Sou Cientista de Dados com experiência no desenvolvimento, implantação e validação de modelos de Machine Learning aplicados a diferentes domínios de negócio, incluindo concessão de crédito, risco de crédito, cobrança, prevenção à fraude, prevenção à lavagem de dinheiro (PLD) e marketing. Minha atuação abrange todo o ciclo de vida de modelos, desde o entendimento do problema, exploração e tratamento de dados, feature engineering e modelagem estatística até deploy, monitoramento e evolução contínua em produção.
+Sou Cientista de Dados com experiência no desenvolvimento, implantação e validação de modelos de Machine Learning aplicados a diferentes domínios de negócio, incluindo concessão de crédito, risco de crédito, cobrança, prevenção à fraude, prevenção à lavagem de dinheiro (PLD) e marketing. Tenho experiência no ciclo de vida de modelos, desde o entendimento do problema, exploração e tratamento de dados, feature engineering e modelagem estatística até deploy, monitoramento e evolução contínua em produção.
 
-Ao longo da minha trajetória, também atuei em engenharia e arquitetura de dados, MLOps e computação em nuvem, desenvolvendo pipelines de dados, estruturando ambientes para experimentação e implantação de modelos e utilizando tecnologias como Python, Apache Spark, SQL, MLflow, Airflow, Databricks, Docker, Kubernetes e serviços em AWS, Google Cloud Platform e Azure.
+Ao longo da minha trajetória, também atuei em engenharia e arquitetura de dados, MLOps e computação em nuvem, desenvolvendo pipelines de dados, estruturando ambientes para experimentação e implantação de modelos e utilizando tecnologias como Python, Apache Spark, SQL, MLflow, Databricks e serviços cloud.
 
 Atualmente, atuo em Model Risk Management (MRM) e Governança de Inteligência Artificial, participando da construção de frameworks, políticas e processos para gestão do ciclo de vida de modelos, além da validação independente de modelos estatísticos e de Machine Learning. Minha atuação envolve a avaliação de metodologia, qualidade dos dados, performance, estabilidade temporal (drift), robustez, calibração, interpretabilidade, explicabilidade e aderência ao problema de negócio, alinhada às melhores práticas regulatórias e frameworks internacionais.
 
@@ -57,25 +57,28 @@ Este portfólio reúne projetos, estudos e experimentos que refletem minha traje
 
     ---
     - 🐍 Python  
-    - 🗄️ SQL (MySQL, PostgreSQL)  
+    - 🗄️ SQL
     - :simple-apachespark: Apache Spark  
     - 📊 R  
 
--   🛡️ __Governança & Estratégia__
+-   🛡️ __Governança, Risco & IA__
     { style="grid-column: span 6;" }
 
     ---
-    - 🧩 Governança de Dados e IA  
-    - ⚖️ Model Risk Management (MRM)  
-    - 🔐 LGPD  
+    - ⚖️ Model Risk Management (MRM)/ Validação Independente de Modelos
+    - 🧩 Governança de IA
+    - 🔐 LGPD
 
 -   🤖 __Machine Learning & Estatística__
     { style="grid-column: span 6;" }
 
     ---
-    - 🤖 Machine Learning  
-    - 📈 Modelagem Preditiva  
-    - 📊 Estatística Aplicada  
+    - 🤖 Machine Learning
+    - 📈 Modelagem Preditiva
+    - 📊 Modelagem Estatística
+    - 🧩 Feature Engineering
+    - 📉 Validação de Modelos
+    - 📊 Estatística Aplicada 
 
 -   ⚙️ __Engenharia & MLOps__
     { style="grid-column: span 6;" }
@@ -83,10 +86,13 @@ Este portfólio reúne projetos, estudos e experimentos que refletem minha traje
     ---
     - 🔄 ETL / Pipelines  
     - 🧪 MLflow  
+    - 🌬️ Airflow
+    - 🧱 Databricks
+    - 🐳 Docker
     - 🚀 Deploy e Monitoramento  
     - 🔁 Ciclo de Vida de Modelos  
 
--   🧰 __Outros__
+-   🧰 __Ferramentas & Metodologias__
     { style="grid-column: span 6;" }
 
     ---

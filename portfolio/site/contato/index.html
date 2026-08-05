@@ -229,7 +229,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../sobre_mim/" class="md-tabs__link">
+      <a href=".." class="md-tabs__link">
         
   
   
@@ -376,7 +376,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../sobre_mim/" class="md-nav__link">
+      <a href=".." class="md-nav__link">
         
   
   
@@ -601,6 +601,8 @@
 
 
 
+  
+
 
               
               <article class="md-content__inner md-typeset">
@@ -625,17 +627,23 @@
 <p>Para questões profissionais, você pode me enviar um e-mail: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#101;&#100;&#114;&#111;&#109;&#97;&#116;&#101;&#117;&#115;&#109;&#111;&#114;&#97;&#101;&#115;&#100;&#101;&#97;&#108;&#109;&#101;&#105;&#100;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#112;&#101;&#100;&#114;&#111;&#109;&#97;&#116;&#101;&#117;&#115;&#109;&#111;&#114;&#97;&#101;&#115;&#100;&#101;&#97;&#108;&#109;&#101;&#105;&#100;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></p>
 <h2 id="formulario-de-contato">Formulário de Contato</h2>
 <p>Se preferir, você também pode usar o formulário abaixo para me enviar uma mensagem diretamente:</p>
-<form action="https://formspree.io/f/xgegowlb" method="POST">
-    <label for="nome">Seu Nome:</label>
-    <input type="text" id="nome" name="nome" required><br />
+<form action="https://formspree.io/f/xgegowlb" method="POST" class="contact-form">
+    <div class="form-group">
+        <label for="nome">Seu Nome:</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+    </div>
 
-    <label for="email">Seu E-mail:</label>
-    <input type="email" id="email" name="_replyto" required><br />
+    <div class="form-group">
+        <label for="email">Seu E-mail:</label>
+        <input type="email" id="email" name="_replyto" placeholder="seu.email@exemplo.com" required>
+    </div>
 
-    <label for="mensagem">Sua Mensagem:</label>
-    <textarea id="mensagem" name="mensagem" required></textarea><br />
+    <div class="form-group">
+        <label for="mensagem">Sua Mensagem:</label>
+        <textarea id="mensagem" name="mensagem" rows="5" placeholder="Escreva sua mensagem aqui..." required></textarea>
+    </div>
 
-    <button type="submit" class="md-button md-button--primary">Enviar Mensagem</button>
+    <button type="submit" class="md-button md-button--primary form-submit-btn">Enviar Mensagem</button>
 </form>
 
 
@@ -822,10 +830,6 @@
     
     
       <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
-      
-        <script src="../lightbox.js"></script>
-      
-        <script src="../javascripts/extra.js"></script>
       
     
   </body>

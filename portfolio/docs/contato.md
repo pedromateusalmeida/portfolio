@@ -24,17 +24,23 @@ Para questões profissionais, você pode me enviar um e-mail: pedromateusmoraesd
 
 Se preferir, você também pode usar o formulário abaixo para me enviar uma mensagem diretamente:
 
-<form action="https://formspree.io/f/xgegowlb" method="POST">
-    <label for="nome">Seu Nome:</label>
-    <input type="text" id="nome" name="nome" required><br />
+<form action="https://formspree.io/f/xgegowlb" method="POST" class="contact-form">
+    <div class="form-group">
+        <label for="nome">Seu Nome:</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+    </div>
 
-    <label for="email">Seu E-mail:</label>
-    <input type="email" id="email" name="_replyto" required><br />
+    <div class="form-group">
+        <label for="email">Seu E-mail:</label>
+        <input type="email" id="email" name="_replyto" placeholder="seu.email@exemplo.com" required>
+    </div>
 
-    <label for="mensagem">Sua Mensagem:</label>
-    <textarea id="mensagem" name="mensagem" required></textarea><br />
+    <div class="form-group">
+        <label for="mensagem">Sua Mensagem:</label>
+        <textarea id="mensagem" name="mensagem" rows="5" placeholder="Escreva sua mensagem aqui..." required></textarea>
+    </div>
 
-    <button type="submit" class="md-button md-button--primary">Enviar Mensagem</button>
+    <button type="submit" class="md-button md-button--primary form-submit-btn">Enviar Mensagem</button>
 </form>
 
 
