@@ -10,9 +10,9 @@ Se você tem alguma dúvida, sugestão ou quer entrar em contato comigo, fique �
 
 ## Me encontre nas redes sociais
 
-:simple-linkedin: [LinkedIn](https://www.linkedin.com/in/pedro-mateus-almeida-br)<br />
+:material-linkedin: [LinkedIn](https://www.linkedin.com/in/pedro-mateus-almeida-br)<br />
 :simple-github: [GitHub](https://github.com/pedromateusalmeida)<br />
-:fontawesome-brands-x-twitter:/:simple-twitter: [Twitter](https://twitter.com/AmeidaMateus)<br />
+:fontawesome-brands-x-twitter:[Twitter](https://twitter.com/AmeidaMateus)<br />
 :simple-instagram: [Instagram](https://www.instagram.com/pedro_mateus_almeida/)<br />
 
 
