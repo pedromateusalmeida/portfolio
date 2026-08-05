@@ -8,15 +8,15 @@
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
-  }
-  
-  .skill-name {
+}
+
+.skill-name {
     flex-grow: 1;
-  }
-  
-  .skill-rating {
+}
+
+.skill-rating {
     flex-shrink: 0;
-  }
+}
 
 /* Estilização do Formulário de Contato */
 .md-typeset .contact-form {
@@ -80,8 +80,8 @@
 }
 
 /* Equalização de Altura e Alinhamento dos Cards */
-.grid.cards > ul > li,
-.grid.cards > li {
+.grid.cards>ul>li,
+.grid.cards>li {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -118,47 +118,67 @@
     transform: translateY(-1px);
 }
 
-/* Widget de Tradução Automática (Google Translate) */
-#translate-bar {
-    display: flex;
+/* Redução Suave do Tamanho da Fonte Geral do Site */
+.md-typeset {
+    font-size: 0.76rem;
+    line-height: 1.5;
+}
+
+/* Botão Discreto de Tradução PT | EN */
+.lang-switcher {
+    display: inline-flex;
     align-items: center;
-    justify-content: flex-end;
-    gap: 8px;
-    margin-bottom: 1.2rem;
-    padding: 6px 14px;
-    background-color: var(--md-code-bg-color, rgba(255, 255, 255, 0.04));
+    gap: 3px;
+    padding: 2px 6px;
+    background-color: var(--md-code-bg-color, rgba(255, 255, 255, 0.05));
     border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.12));
-    border-radius: 20px;
-    font-size: 0.85rem;
-    width: fit-content;
-    margin-left: auto;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-}
-
-.translate-label {
+    border-radius: 14px;
+    font-size: 0.68rem;
     font-weight: 600;
+    margin-left: auto;
+    margin-bottom: 0.8rem;
+    width: fit-content;
+}
+
+.lang-btn {
+    background: none;
+    border: none;
     color: var(--md-typeset-color);
-}
-
-/* Esconder barra de topo padrão do Google Translate */
-body {
-    top: 0 !important;
-}
-
-.goog-te-banner-frame {
-    display: none !important;
-}
-
-.goog-te-gadget-simple {
-    background-color: transparent !important;
-    border: none !important;
-    padding: 0 !important;
-    font-size: 0.85rem !important;
     cursor: pointer;
+    padding: 2px 6px;
+    border-radius: 10px;
+    font-size: 0.68rem;
+    font-weight: 600;
+    transition: background-color 0.2s ease, opacity 0.2s ease;
+    opacity: 0.65;
 }
 
-.goog-te-gadget-simple .goog-te-menu-value span {
-    color: var(--md-typeset-color) !important;
+.lang-btn:hover,
+.lang-btn.active {
+    opacity: 1;
+    background-color: var(--md-primary-bg-color--light, rgba(63, 81, 181, 0.18));
+    color: var(--md-primary-fg-color, #3f51b5);
 }
 
-
+.lang-divider {
+    opacity: 0.3;
+    font-size: 0.75rem;
+}
+
+/* Ocultar totalmente banners, caixas e ferramentas nativas do Google Translate */
+#google_translate_element,
+.goog-te-banner-frame,
+iframe.goog-te-banner-frame,
+#goog-gt-tt,
+.goog-te-balloon-frame,
+.goog-te-spinner-pos {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    width: 0 !important;
+}
+
+body {
+    top: 0px !important;
+    position: static !important;
+}
